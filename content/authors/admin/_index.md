@@ -22,7 +22,7 @@ name: Kaila L. Colyott
 organizations:
 - name: University of Kansas
   url: ""
-role: PhD Candidate in Evolutionary Biology & Program Coordinator at Center for Teaching Excellence
+role: PhD Candidate and Teaching Innovation Coordinator
 social:
 - icon: envelope
   icon_pack: fas
