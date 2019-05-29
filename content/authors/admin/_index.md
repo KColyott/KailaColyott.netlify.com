@@ -1,16 +1,16 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include undergraduate biology education, science communication outcomes and sexual signal evolution
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: PhD in Evolutionary Biology
+    institution: University of Kansas
+    year: projected defense fall 2019
+  - course: B.S. in Biology
+    institution: Northern Illinois University
+    year: 2011
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
